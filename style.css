@@ -1,0 +1,22 @@
+body {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  background-image: url("todo-img.jpg");
+}
+.delete {
+  background-color: rgb(209, 27, 27);
+  color: white;
+}
+.delete:hover {
+  background-color: rgb(12, 204, 6);
+  color: rgb(252, 252, 252);
+}
+.edit {
+  background-color: chartreuse;
+  color: green;
+}
+.edit:hover {
+  background-color: green;
+  color: chartreuse;
+}
